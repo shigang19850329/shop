@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AddSubView</string>
+    <string name="sub">subButton</string>
+    <string name="add">addButton</string>
+</resources>
